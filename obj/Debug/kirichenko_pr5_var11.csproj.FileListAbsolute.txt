@@ -6,3 +6,11 @@ C:\Users\st310-07\Documents\System\kirichenko_pr5_var11\obj\Debug\kirichenko_pr5
 C:\Users\st310-07\Documents\System\kirichenko_pr5_var11\obj\Debug\kirichenko_pr5_var11.exe
 C:\Users\st310-07\Documents\System\kirichenko_pr5_var11\obj\Debug\kirichenko_pr5_var11.pdb
 C:\Users\st310-07\Documents\System\kirichenko_pr5_var11\obj\Debug\kirichenko_pr5_var11.exe.config
+C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr5\bin\Debug\kirichenko_pr5_var11.exe.config
+C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr5\bin\Debug\kirichenko_pr5_var11.exe
+C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr5\bin\Debug\kirichenko_pr5_var11.pdb
+C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr5\obj\Debug\kirichenko_pr5_var11.csproj.AssemblyReference.cache
+C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr5\obj\Debug\kirichenko_pr5_var11.exe.config
+C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr5\obj\Debug\kirichenko_pr5_var11.csproj.CoreCompileInputs.cache
+C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr5\obj\Debug\kirichenko_pr5_var11.exe
+C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr5\obj\Debug\kirichenko_pr5_var11.pdb

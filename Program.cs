@@ -19,7 +19,7 @@ namespace kirichenko_pr5_var11
 
             if (temp == 0)
             {
-                Console.WriteLine("Введите число больше 0");
+                Console.WriteLine($"Результат: 0");
                 return;
             }
 
@@ -31,10 +31,6 @@ namespace kirichenko_pr5_var11
                 temp_length /= 10;
             }
 
-            int middleZero = length / 2;
-
-            int zero = 0;
-
             int res = 0;
 
             int mnoj = 1;
@@ -45,14 +41,13 @@ namespace kirichenko_pr5_var11
             {
                 int current = temp % 10;
 
-                if (current != zero || current != middleZero)
+                if (current != 0 || (length % 2 != 0 && currentPosition == length /2))
                 {
                     res += current * mnoj;
                     mnoj *= 10;
                 }
-                current++;
+                currentPosition++;
                 temp /= 10;
-                Console.WriteLine(res);
             }
             Console.WriteLine($"Результат: {res}");
         }
